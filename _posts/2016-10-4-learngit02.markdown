@@ -1,11 +1,4 @@
 ---
-title: LearnGit02
-summary:
-    Learn Git From Liao 
-tags:
-  - Git
-...
----
 layout: post
 title: Learn Git From Liao 
 date: 2016-10-4 16:32:24.000000000 +09:00
